@@ -1,7 +1,7 @@
 export type Language = "id" | "en";
 
 const id = {
-  "site.name": "Banggai",
+  "site.name": "Mengusung Banggai",
   "site.description":
     "Cerita pengabdian, masyarakat, dan pesisir Sumalata Timur.",
   "home.eyebrow": "KKN · Sumalata Timur",
@@ -61,7 +61,8 @@ const id = {
     "Kehidupan kota pelabuhan terhubung erat dengan laut.",
   "home.gallery.alt.village": "Ilustrasi suasana kampung pesisir Banggai",
   "home.gallery.title.village": "Kehidupan kepulauan",
-  "home.gallery.caption.village": "Keramahan warga menyambut setiap perjalanan.",
+  "home.gallery.caption.village":
+    "Keramahan warga menyambut setiap perjalanan.",
   "home.gallery.alt.reef": "Ilustrasi terumbu karang dan ikan tropis",
   "home.gallery.title.reef": "Kehidupan bawah laut",
   "home.gallery.caption.reef":
@@ -250,8 +251,7 @@ const en = {
   "home.gallery.caption.coast": "The sea is always part of island life.",
   "home.gallery.alt.hills": "Illustration of hills in the Banggai Islands",
   "home.gallery.title.hills": "A palace above the sea",
-  "home.gallery.caption.hills":
-    "A sea view from Banggai's historic district.",
+  "home.gallery.caption.hills": "A sea view from Banggai's historic district.",
   "home.gallery.alt.boat": "Illustration of a fishing boat on calm water",
   "home.gallery.title.boat": "Setting out to sea",
   "home.gallery.caption.boat":
@@ -263,7 +263,8 @@ const en = {
   "home.gallery.title.reef": "Life beneath the sea",
   "home.gallery.caption.reef":
     "The marine ecosystem is a treasure worth protecting.",
-  "home.gallery.alt.harvest": "Illustration of seafood from the Banggai Islands",
+  "home.gallery.alt.harvest":
+    "Illustration of seafood from the Banggai Islands",
   "home.gallery.title.harvest": "Life from the sea",
   "home.gallery.caption.harvest":
     "The sea sustains life in coastal communities.",
@@ -282,8 +283,7 @@ const en = {
   "destinations.locationSuffix": "Banggai",
   "destinations.category": "A place to explore",
   "destinations.emptyTitle": "No destinations in this area yet",
-  "destinations.emptyDescription":
-    "Choose another area to see destinations.",
+  "destinations.emptyDescription": "Choose another area to see destinations.",
   "destinations.placeholderAlt":
     "Illustration placeholder for a village destination",
   "products.eyebrow": "Local products",
