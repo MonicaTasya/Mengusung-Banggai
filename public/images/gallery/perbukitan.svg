@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title">
+  <title id="title">Ilustrasi perbukitan Gorontalo</title>
+  <rect width="1200" height="900" fill="#E2F1F6"/>
+  <circle cx="905" cy="174" r="70" fill="#F2A65A"/>
+  <path d="M0 480 183 270l107 106 193-244 204 281 137-142 376 264v365H0Z" fill="#C7E7E8"/>
+  <path d="M0 552 237 320l187 210 176-155 263 249 130-199 207 101v374H0Z" fill="#5F8D62"/>
+  <path d="M0 685 160 495l174 115 212-153 192 190 190-126 272 117v281H0Z" fill="#087E8B"/>
+  <path d="M0 774c168-65 287-68 443-14 167 58 323 20 455-36 119-51 215-47 302-13v189H0Z" fill="#075B66"/>
+  <path d="M0 840c211-44 357-31 518 2 178 37 346 0 470-42 84-28 150-33 212-23v123H0Z" fill="#F4E8D2"/>
+  <g fill="#E9F2E7">
+    <path d="m160 497 77-177 75 177-75-48Z"/><path d="m471 530 129-303 124 303-124-85Z"/><path d="m766 628 107-258 108 258-108-68Z"/>
+  </g>
+  <g fill="#5F8D62"><circle cx="124" cy="710" r="23"/><circle cx="180" cy="710" r="30"/><circle cx="229" cy="720" r="19"/><circle cx="988" cy="690" r="31"/><circle cx="1046" cy="699" r="22"/><circle cx="1101" cy="701" r="30"/></g>
+</svg>

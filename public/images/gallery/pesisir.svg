@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title">
+  <title id="title">Ilustrasi pesisir tropis</title>
+  <rect width="1200" height="900" fill="#E2F1F6"/>
+  <circle cx="925" cy="175" r="78" fill="#F2A65A"/>
+  <path d="M0 340c130-74 234-66 350 5 116 70 231 51 340-13 141-83 281-79 510 12v556H0Z" fill="#C7E7E8"/>
+  <path d="M0 434c132-45 234-28 361 25 146 61 265 32 380-26 171-86 293-55 459-6v473H0Z" fill="#087E8B"/>
+  <path d="M0 635c184-38 308-9 458 39 165 53 313 30 450-15 120-40 209-36 292-7v248H0Z" fill="#075B66"/>
+  <path d="M0 728c176-25 302-14 437 18 144 33 274 26 407-7 148-37 250-24 356 4v157H0Z" fill="#F4E8D2"/>
+  <path d="M0 787c153-21 292-13 443 16m107-13c178 19 298-40 479-20" fill="none" stroke="#FFFFFF" stroke-width="13" stroke-linecap="round" opacity=".82"/>
+  <path d="M992 520v-246m0 54c-85-96-172-87-195-81 18 62 77 100 195 81Zm0-18c51-104 123-131 189-117-5 66-61 113-189 117Z" fill="#5F8D62"/>
+  <path d="M992 475c-50 82-97 123-149 143m149-118c41 53 86 79 127 92" fill="none" stroke="#075B66" stroke-width="14" stroke-linecap="round"/>
+  <path d="m160 611 135-89 138 89Z" fill="#F2A65A"/>
+  <path d="M185 610h223v76H185z" fill="#FFFFFF"/>
+  <path d="M213 641h39v45h-39zm69 0h39v45h-39zm69 0h30v45h-30z" fill="#1C6E8C"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title">
+  <title id="title">Ilustrasi perahu nelayan</title>
+  <rect width="1200" height="900" fill="#E2F1F6"/>
+  <circle cx="240" cy="180" r="71" fill="#F2A65A"/>
+  <path d="M0 360c147-46 281-52 417-7 139 46 249 41 400-6 135-43 266-37 383 0v553H0Z" fill="#C7E7E8"/>
+  <path d="M0 462c145-54 284-48 409-5 160 55 276 55 440 0 137-46 246-50 351-14v457H0Z" fill="#1C6E8C"/>
+  <path d="M0 632c202-53 335-33 474 12 159 51 301 44 451-7 97-33 188-42 275-28v291H0Z" fill="#075B66"/>
+  <path d="m233 532 715 0-135 131H345Z" fill="#F2A65A"/>
+  <path d="M306 532c93 20 181 19 262 0 102-24 191-23 299 0H306Z" fill="#FFFFFF"/>
+  <path d="M567 242v290" stroke="#075B66" stroke-width="16" stroke-linecap="round"/>
+  <path d="m583 262 202 216H583Z" fill="#FFFFFF"/>
+  <path d="M558 300 390 480h168Z" fill="#F4E8D2"/>
+  <path d="M82 760c103-21 189-22 272 0m361-33c121-23 222-16 331 16" fill="none" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round" opacity=".8"/>
+  <path d="M988 525v-194m0 42c-63-74-119-77-154-66 16 46 58 74 154 66Zm0-16c41-75 92-91 138-82-6 49-47 80-138 82Z" fill="#5F8D62"/>
+</svg>

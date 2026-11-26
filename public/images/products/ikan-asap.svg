@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title">
+  <title id="title">Ilustrasi ikan asap</title>
+  <rect width="800" height="600" fill="#E2F1F6"/>
+  <circle cx="130" cy="110" r="46" fill="#F2A65A"/>
+  <path d="M0 321c125-44 237-38 351 2 137 48 271 45 449-10v287H0Z" fill="#C7E7E8"/>
+  <path d="M0 420c145-35 272-12 387 20 146 40 270 20 413-23v173H0Z" fill="#1C6E8C"/>
+  <ellipse cx="405" cy="482" rx="246" ry="52" fill="#12313B" opacity=".16"/>
+  <path d="M192 350h417c37 0 66 29 66 66v39H126v-39c0-37 29-66 66-66Z" fill="#075B66"/>
+  <path d="M176 390h449v120H176Z" fill="#F4E8D2"/>
+  <path d="M154 510h493l-48 42H201Z" fill="#F2A65A"/>
+  <path d="M220 408h355v79H220Z" fill="#12313B"/>
+  <g fill="#DCE8E5">
+    <path d="M254 446c40-32 84-30 116 0-33 29-76 30-116 0Zm131 0c39-32 83-30 115 0-32 29-76 30-115 0Zm130 0c25-21 56-24 83-8-18 28-50 38-83 8Z"/>
+    <path d="m360 432 24 14-24 14Zm130 0 24 14-24 14Z" fill="#F2A65A"/>
+  </g>
+  <g fill="none" stroke="#63777B" stroke-width="12" stroke-linecap="round" opacity=".65"><path d="M284 321c-14-20 12-29 1-48m79 48c-14-20 12-29 1-48m78 48c-14-20 12-29 1-48m77 48c-14-20 12-29 1-48"/></g>
+</svg>

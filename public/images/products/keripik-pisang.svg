@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title">
+  <title id="title">Ilustrasi keripik pisang</title>
+  <rect width="800" height="600" fill="#E9F2E7"/>
+  <circle cx="644" cy="119" r="51" fill="#F2A65A"/>
+  <path d="M0 362c158-57 290-22 405 17 131 45 258 34 395-10v231H0Z" fill="#C7E7E8"/>
+  <ellipse cx="399" cy="475" rx="253" ry="65" fill="#12313B" opacity=".12"/>
+  <path d="M188 285h425l-44 225c-8 42-40 70-84 70H316c-44 0-76-28-84-70Z" fill="#087E8B"/>
+  <path d="M224 320h353l-34 173c-5 26-25 43-53 43H311c-28 0-48-17-53-43Z" fill="#FFF1DF"/>
+  <path d="m282 400 63-48 53 37 60-50 66 44-59 71-62-23-64 37Z" fill="#F2A65A"/>
+  <path d="m294 397 52-29 28 19-54 36Zm98-4 58-39 28 20-57 40Zm57 36 50-39 31 20-48 42Z" fill="#D97706"/>
+  <path d="M270 278c-19-61-2-105 48-125 1 45 20 72 0 117 27-43 61-60 99-52-45 29-64 60-70 84Z" fill="#5F8D62"/>
+  <path d="M469 277c20-55 59-79 111-68-24 33-34 55-72 81 44-15 75-5 95 26-51-12-88-3-121 22Z" fill="#5F8D62"/>
+</svg>

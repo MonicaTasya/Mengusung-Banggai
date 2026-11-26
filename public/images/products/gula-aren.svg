@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title">
+  <title id="title">Ilustrasi gula aren lokal</title>
+  <rect width="800" height="600" fill="#FFF1DF"/>
+  <circle cx="640" cy="118" r="55" fill="#F2A65A"/>
+  <path d="M0 353c117-44 222-39 340-1 126 41 244 37 361-4 38-13 72-20 99-22v274H0Z" fill="#E9F2E7"/>
+  <path d="M0 448c163-44 277-18 394 15 145 40 273 22 406-15v152H0Z" fill="#5F8D62"/>
+  <ellipse cx="400" cy="457" rx="237" ry="58" fill="#12313B" opacity=".13"/>
+  <path d="M182 306h436l-35 196c-7 38-38 64-76 64H293c-38 0-69-26-76-64Z" fill="#F2A65A"/>
+  <path d="M204 335h392l-25 146c-5 28-27 47-55 47H284c-28 0-50-19-55-47Z" fill="#B42318"/>
+  <path d="M225 348h350l-18 108H243Z" fill="#F4E8D2"/>
+  <path d="M226 374c93-23 245-23 347 0v45c-105-25-255-24-354 0Z" fill="#F2A65A"/>
+  <path d="M201 292c0-34 26-61 59-61h280c33 0 59 27 59 61v24H201Z" fill="#075B66"/>
+  <path d="M257 246c-23-56-9-103 37-128 3 42 24 70 7 115 27-43 61-60 99-51-45 28-63 59-67 81Z" fill="#5F8D62"/>
+  <path d="M536 250c14-48 45-72 91-72-16 30-21 51-52 78 36-16 64-13 84 11-43-3-73 7-99 30Z" fill="#5F8D62"/>
+</svg>

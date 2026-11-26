@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 580" role="img" aria-labelledby="title">
+  <title id="title">Ilustrasi avatar anggota tim</title>
+  <rect width="500" height="580" fill="#DDF3F2"/>
+  <circle cx="250" cy="191" r="119" fill="#F4E8D2"/>
+  <path d="M87 580c7-113 74-183 163-183s156 70 163 183Z" fill="#087E8B"/>
+  <path d="M150 184c0-78 43-127 103-127 64 0 103 50 103 128v60c0 75-42 123-106 123-60 0-100-51-100-124Z" fill="#F2A65A"/>
+  <path d="M149 201c-10-95 33-157 107-157 72 0 113 56 104 148-18-19-25-44-29-73-35 37-97 60-182 60Zm10 15 30-8 1 67c0 31 14 58 36 75-47-9-67-55-67-134Zm181 0-30-7-2 66c0 32-14 59-37 77 47-10 69-56 69-136Z" fill="#12313B"/>
+  <ellipse cx="214" cy="217" rx="9" ry="6" fill="#12313B"/><ellipse cx="288" cy="217" rx="9" ry="6" fill="#12313B"/>
+  <path d="M226 268c16 11 34 11 50 0" fill="none" stroke="#B42318" stroke-width="7" stroke-linecap="round"/>
+  <path d="M163 580c14-60 40-101 87-126 49 25 74 66 87 126Z" fill="#F2A65A"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title">
+  <title id="title">Ilustrasi minyak kelapa</title>
+  <rect width="800" height="600" fill="#E2F1F6"/>
+  <circle cx="634" cy="118" r="49" fill="#F2A65A"/>
+  <path d="M0 382c123-42 233-27 352 12 140 45 277 32 448-14v220H0Z" fill="#C7E7E8"/>
+  <path d="M0 466c141-39 270-13 396 19 145 37 271 18 404-19v134H0Z" fill="#5F8D62"/>
+  <ellipse cx="399" cy="492" rx="222" ry="48" fill="#12313B" opacity=".14"/>
+  <path d="M305 259h190l27 63v180c0 35-27 62-62 62H340c-35 0-62-27-62-62V322Z" fill="#F4E8D2"/>
+  <path d="M334 251h132v49H334Z" fill="#075B66"/>
+  <path d="M329 335h142v143c0 20-15 35-35 35h-72c-20 0-35-15-35-35Z" fill="#F2A65A"/>
+  <path d="M346 365h109v79H346Z" fill="#FFF1DF"/>
+  <path d="M390 348c-17-25-11-49 9-63 2 24 11 35 5 56 11-18 25-26 42-22-20 12-29 27-32 38Z" fill="#5F8D62"/>
+  <path d="M234 449c-50-21-64-65-40-106 32 31 62 38 77 79-5-54 19-89 67-102-27 51-27 93-10 131Z" fill="#5F8D62"/>
+  <path d="M543 450c51-24 62-67 35-106-30 32-60 41-73 83 2-53-25-87-73-97 30 50 32 90 17 129Z" fill="#5F8D62"/>
+</svg>
