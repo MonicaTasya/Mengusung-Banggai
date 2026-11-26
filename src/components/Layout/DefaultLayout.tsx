@@ -8,7 +8,10 @@ export interface DefaultLayoutProps {
   className?: string;
 }
 
-export function DefaultLayout({ children, className = "" }: DefaultLayoutProps) {
+export function DefaultLayout({
+  children,
+  className = "",
+}: DefaultLayoutProps) {
   return (
     <div className={`flex min-h-screen flex-col ${className}`}>
       <SkipLink />
@@ -16,7 +19,7 @@ export function DefaultLayout({ children, className = "" }: DefaultLayoutProps) 
       <main id="main-content" tabIndex={-1} className="flex-1">
         {children}
       </main>
-      <Footer />
+      {/* <Footer /> */}
     </div>
   );
 }
