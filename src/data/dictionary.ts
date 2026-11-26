@@ -1,7 +1,7 @@
 export type Language = "id" | "en";
 
 const id = {
-  "site.name": "Tinepo Gorontalo",
+  "site.name": "Banggai",
   "site.description":
     "Cerita pengabdian, masyarakat, dan pesisir Sumalata Timur.",
   "home.eyebrow": "KKN · Sumalata Timur",
@@ -199,7 +199,7 @@ const id = {
 } as const;
 
 const en = {
-  "site.name": "Tinepo Gorontalo",
+  "site.name": "Banggai",
   "site.description":
     "Stories of service, community, and the coast of East Sumalata.",
   "home.eyebrow": "Community Service · East Sumalata",
