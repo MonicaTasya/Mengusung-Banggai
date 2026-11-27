@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: "Produk Lokal Banggai",
   description: "Jelajahi produk dan karya Banggai.",
   openGraph: {
-    siteName: "Banggai, Banggai Laut",
+    siteName: "Kecamatan Batui, Kabupaten Banggai, Sulawesi Tengah",
     title: "Produk Lokal Banggai",
     description: "Jelajahi produk dan karya Banggai.",
     type: "website",

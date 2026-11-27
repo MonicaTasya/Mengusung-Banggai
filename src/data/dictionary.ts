@@ -38,7 +38,7 @@ const id = {
   "home.gallery.eyebrow": "Potongan cerita",
   "home.gallery.title": "Momen kecil, kenangan yang tinggal.",
   "home.gallery.description":
-    "Sekilas suasana pesisir, tradisi, dan kehidupan masyarakat Banggai Laut.",
+    "Sekilas suasana pesisir, tradisi, dan kehidupan masyarakat Banggai.",
   "home.gallery.placeholderNote":
     "Ilustrasi ini menjadi placeholder sampai foto kegiatan asli tersedia.",
   "home.gallery.openPhoto": "Buka foto",
@@ -47,7 +47,7 @@ const id = {
   "home.gallery.nextPhoto": "Foto berikutnya",
   "home.gallery.photoOf": "dari",
   "home.gallery.viewAll": "Lihat selengkapnya",
-  "home.gallery.alt.coast": "Ilustrasi garis pantai Banggai Laut",
+  "home.gallery.alt.coast": "Ilustrasi garis pantai Banggai",
   "home.gallery.title.coast": "Pagi di pesisir Banggai",
   "home.gallery.caption.coast":
     "Laut yang selalu menjadi bagian dari cerita masyarakat kepulauan.",
@@ -229,7 +229,7 @@ const en = {
   "home.gallery.eyebrow": "A glimpse of our journey",
   "home.gallery.title": "Small moments, lasting memories.",
   "home.gallery.description":
-    "A glimpse of the coast, traditions, and community life in Banggai Laut.",
+    "A glimpse of the coast, traditions, and community life in Banggai.",
   "home.gallery.placeholderNote":
     "These illustrations are placeholders until real activity photos are available.",
   "home.gallery.openPhoto": "Open photo",
@@ -238,7 +238,7 @@ const en = {
   "home.gallery.nextPhoto": "Next photo",
   "home.gallery.photoOf": "of",
   "home.gallery.viewAll": "See all stories",
-  "home.gallery.alt.coast": "Illustration of the Banggai Laut coastline",
+  "home.gallery.alt.coast": "Illustration of the Banggai coastline",
   "home.gallery.title.coast": "Morning in Banggai",
   "home.gallery.caption.coast": "The sea is always part of island life.",
   "home.gallery.alt.hills": "Illustration of hills in the Banggai Islands",

@@ -130,13 +130,13 @@ export function LocalSections() {
                 </dd>
               </div>
             </dl>
-            <p className="mt-4 text-xs leading-5 text-muted">
+            {/* <p className="mt-4 text-xs leading-5 text-muted">
               {english
                 ? "Population and area: Banggai Laut in Figures 2025 (reference year 2024). Administrative count: BPS 2025."
                 : "Penduduk dan luas: Banggai Laut Dalam Angka 2025 (data 2024). Jumlah wilayah administrasi: BPS 2025."}
-            </p>
+            </p> */}
             <div className="mt-2 flex flex-wrap gap-x-4 gap-y-1 text-xs font-semibold text-primary-deep">
-              <a
+              {/* <a
                 href="https://web-api.bps.go.id/download.php?f=tHJalxY11ATkeJdb3mMNxUdITU5wU1MraFFGV2Z2bVVWZWxZRDdmczM2WW81eGl5UVdBYndTcmU3aDZHSzA4UTFueXVGd1dxYi90TFJBSDBrNlc2NEFneWsxL2lFekUzdHptc05EWnJSZ0xsbm5WbVFRTDNhYXFCNThxY3dxeHA3NE8va1BkVWVDREk5SFc3Wjdaa1V0N1NZWEVZN1dUd3g4Z3pCZ1d1dVJYcnJtekYxTVlLYVZYRnhzUzdLRFRYZHhyT0xkRWVTckZ2U2pUajMrU2FvTWtDczNzZmM3NllZOVA3T016aDROWVIySG5BZW9HLzY2ejd5U3A0SFFNUGhsL0pjaUlZZTE4NnJVTDVXUGo1N044dlpHbWlkczM1ZWltYk1RPT0%3D"
                 target="_blank"
                 rel="noreferrer"
@@ -144,7 +144,7 @@ export function LocalSections() {
                 {english
                   ? "Banggai Laut in Figures 2025"
                   : "Banggai Laut Dalam Angka 2025"}
-              </a>
+              </a> */}
               <a
                 href="https://banggailautkab.bps.go.id/id/statistics-table/3/YkVWWFUyNTJTVTloVGpCeFdFVTNaMk5wUzFaUFFUMDkjMw%3D%3D/jumlah-desa-kelurahan-menurut-kecamatan-di-kabupaten-banggai-laut--2018.html"
                 target="_blank"
@@ -153,11 +153,11 @@ export function LocalSections() {
                 {english ? "BPS administrative data" : "Data administrasi BPS"}
               </a>
             </div>
-            <p className="mt-4 border-t border-border pt-4 text-xs leading-5 text-muted">
+            {/* <p className="mt-4 border-t border-border pt-4 text-xs leading-5 text-muted">
               {english
                 ? "Coastal tourism and island conditions can change; confirm details locally before traveling."
                 : "Destinasi sekitar: Banggai Laut memiliki pantai dan pulau lain, termasuk Pantai Oyama yang berada di kecamatan lain."}
-            </p>
+            </p> */}
           </aside>
         </div>
       </section>
@@ -209,7 +209,7 @@ export function LocalSections() {
               <p className="mt-3 text-sm leading-6 text-muted">
                 {english
                   ? "One of Banggai's most sacred traditions, the Malabot Tumbe ritual carries the first eggs of the endemic Sulawesi maleo bird with the Batui customary family to the Banggai Laut palace, crossing three regencies. The ritual also carries a message of nature conservation."
-                  : "Sebagai salah satu tradisi paling sakral di Banggai, Ritual Malabot Tumbe mengantarkan telur burung Maleo pertama bersama keluarga adat Batui ke Keraton Banggai Laut, melintasi tiga kabupaten. Sebagai satwa endemik Sulawesi, maleo juga membawa pesan penting tentang kelestarian alam."}
+                  : "Sebagai salah satu tradisi paling sakral di Banggai, Ritual Mombowa Tumbe mengantarkan telur burung Maleo pertama bersama keluarga adat Batui ke Keraton Banggai, melintasi tiga kabupaten. Sebagai satwa endemik Sulawesi, maleo juga membawa pesan penting tentang kelestarian alam."}
               </p>
               {/* <div className="mt-5 rounded-2xl bg-accent-soft p-4">
                 <p className="text-sm font-bold text-ink">
