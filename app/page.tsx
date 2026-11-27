@@ -4,12 +4,12 @@ import HomePage from "@/src/modules/Beranda/page";
 export const metadata: Metadata = {
   title: "Mengusung Banggai",
   description:
-    "Jelajahi sejarah, tradisi, destinasi bahari, dan kehidupan masyarakat Kecamatan Banggai, Banggai Laut.",
+    "Jelajahi sejarah, tradisi, destinasi, dan kehidupan masyarakat Kecamatan Batui, Kabupaten Banggai, Sulawesi Tengah",
   openGraph: {
-    siteName: "Banggai, Banggai Laut",
+    siteName: "Kecamatan Batui, Kabupaten Banggai, Sulawesi Tengah",
     title: "Mengusung Banggai",
     description:
-      "Jelajahi sejarah, tradisi, destinasi bahari, dan kehidupan masyarakat Kecamatan Banggai, Banggai Laut.",
+      "Jelajahi sejarah, tradisi, destinasi, dan kehidupan masyarakat Kecamatan Batui, Kabupaten Banggai, Sulawesi Tengah.",
     type: "website",
     locale: "id_ID",
   },
@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     card: "summary",
     title: "Mengusung Banggai",
     description:
-      "Jelajahi sejarah, tradisi, destinasi bahari, dan kehidupan masyarakat Kecamatan Banggai, Banggai Laut.",
+      "Jelajahi sejarah, tradisi, destinasi bahari, dan kehidupan masyarakat Kecamatan Batui, Kabupaten Banggai, Sulawesi Tengah.",
   },
 };
 
