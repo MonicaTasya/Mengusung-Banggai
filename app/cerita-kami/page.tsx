@@ -3,18 +3,19 @@ import CeritaKamiPage from "@/src/modules/CeritaKami/page";
 
 export const metadata: Metadata = {
   title: "Cerita Banggai",
-  description: "Baca cerita tentang Banggai, tradisi, dan kehidupan kepulauan.",
+  description: "Baca cerita tentang Banggai, tradisi, dan kehidupan.",
   openGraph: {
-    siteName: "Banggai, Banggai Laut",
+    siteName: "Kecamatan Batui, Kabupaten Banggai, Sulawesi Tengah",
     title: "Cerita Banggai",
-    description: "Cerita tentang Banggai, tradisi, dan kehidupan kepulauan.",
+    description: "Cerita tentang Banggai, tradisi, dan kehidupan.",
     type: "website",
     locale: "id_ID",
   },
   twitter: {
     card: "summary",
     title: "Cerita Banggai",
-    description: "Baca cerita tentang Banggai, tradisi, dan kehidupan kepulauan.",
+    description:
+      "Baca cerita tentang Banggai, tradisi, dan kehidupan kepulauan.",
   },
 };
 
