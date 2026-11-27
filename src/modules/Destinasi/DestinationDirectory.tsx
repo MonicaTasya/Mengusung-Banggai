@@ -47,17 +47,23 @@ export function DestinationDirectory({ destinations, className = "" }: Destinati
             {visibleDestinations.map((destination) => (
               <article key={destination.id} className="group overflow-hidden rounded-3xl border border-border bg-white shadow-sm shadow-ink/5 transition-all hover:-translate-y-1 hover:shadow-xl hover:shadow-ink/10">
                 <div className="relative aspect-[16/10] overflow-hidden bg-secondary-soft">
-                  <Image src={destination.image} alt={t(destination.altKey)} fill sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw" unoptimized className="object-cover transition-transform duration-500 group-hover:scale-105" />
+                  <Image src={destination.image} alt={destination.alt} fill sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw" unoptimized className="object-cover transition-transform duration-500 group-hover:scale-105" />
                   <span className="absolute left-4 top-4 rounded-full border border-white/60 bg-white/90 px-3 py-1.5 text-[11px] font-bold text-primary-deep shadow-sm backdrop-blur-sm">{t("destinations.category")}</span>
                 </div>
                 <div className="p-5 sm:p-6">
-                  <h2 className="text-xl font-bold tracking-tight text-ink">{t("destinations.cardTitlePrefix")} {destination.area}</h2>
-                  <p className="mt-3 text-sm leading-6 text-muted">{t("destinations.cardDescription")}</p>
+                  <h2 className="text-xl font-bold tracking-tight text-ink">
+                    {destination.href ? (
+                      <a href={destination.href} target="_blank" rel="noreferrer" className="rounded-sm hover:text-primary focus-visible:outline-focus">
+                        {destination.name}
+                      </a>
+                    ) : destination.name}
+                  </h2>
+                  <p className="mt-3 text-sm leading-6 text-muted">{destination.description}</p>
                   <p className="mt-5 inline-flex items-center gap-2 text-xs font-bold text-primary-deep">
                     <svg aria-hidden="true" viewBox="0 0 20 20" className="size-4" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round">
                       <path d="M16.8 8.4c0 4.7-6.8 9.1-6.8 9.1S3.2 13.1 3.2 8.4a6.8 6.8 0 1 1 13.6 0Z"/><circle cx="10" cy="8.3" r="2.1"/>
                     </svg>
-                    {t("destinations.locationPrefix")} {destination.area}, {t("destinations.locationSuffix")}
+                    {t("destinations.locationPrefix")} {destination.location}
                   </p>
                 </div>
               </article>

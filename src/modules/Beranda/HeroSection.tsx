@@ -45,7 +45,7 @@ export function HeroSection({
           <p className="mt-6 max-w-2xl text-base leading-7 text-white/80 sm:text-lg sm:leading-8">
             {english
               ? "From a hilltop palace to a harbor that never sleeps, Banggai District holds the history, traditions, and island warmth of the region."
-              : "Dari keraton di atas bukit hingga pelabuhan yang tak pernah sepi, Kecamatan Banggai menyimpan sejarah, tradisi, dan keramahan khas kepulauan."}
+              : "Pemberdayaan Ekonomi, Sosial, Budaya, dan Lingkungan Masyarakat Batui melalui Penguatan Kapasitas dan Hilirisasi Komoditas Unggulan Daerah"}
           </p>
           <div className="mt-9 flex flex-wrap gap-3">
             <Link
